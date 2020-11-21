@@ -1,0 +1,2 @@
+# Safeme
+Javascript redirect
